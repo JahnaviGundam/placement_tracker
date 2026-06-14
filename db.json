@@ -1,0 +1,35 @@
+{
+  "applications": [
+    {
+      "id": "1",
+      "company": "Amazon",
+      "role": "SDE Intern",
+      "status": "Applied"
+    },
+    {
+      "id": "2",
+      "company": "JPMC",
+      "role": "Software Engineer",
+      "status": "OA Completed"
+    },
+    {
+      "company": "apple",
+      "role": "sde",
+      "status": "Applied",
+      "id": "CZPikcOsPg8"
+    },
+    {
+      "company": "ola",
+      "role": "sde2",
+      "status": "Applied",
+      "id": "N5wOd3MM8mY"
+    },
+    {
+      "company": "apple",
+      "role": "sde",
+      "status": "Offered",
+      "id": "7LLLW4nCLB0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
